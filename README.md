@@ -55,4 +55,4 @@ The imports I used are Pandas and Numpy.
 
 ![5](https://github.com/reiccv/Module_4_Challenge/blob/main/mod4images/diversify_5.PNG)
 
-# Repeat the steps for Berskshire to determine which would be a better investment.
+# Repeat the steps for Berkshire to determine which would be a better investment.
