@@ -12,4 +12,47 @@ The imports I used are Pandas and Numpy.
 
 ![import 2](https://github.com/reiccv/Module_4_Challenge/blob/main/mod4images/import_data_2.PNG)
 
-![import 3]()
+# Quantitative Analysis
+![ 1](https://github.com/reiccv/Module_4_Challenge/blob/main/mod4images/quantative_1.PNG)
+
+![2](https://github.com/reiccv/Module_4_Challenge/blob/main/mod4images/quantative_2.PNG)
+
+![3](https://github.com/reiccv/Module_4_Challenge/blob/main/mod4images/quantative_3.PNG)
+
+# Volatility Analyze 
+
+![1](https://github.com/reiccv/Module_4_Challenge/blob/main/mod4images/volality_1.PNG)
+
+![2](https://github.com/reiccv/Module_4_Challenge/blob/main/mod4images/volality_2.PNG)
+
+# Analyze Risk
+
+![1](https://github.com/reiccv/Module_4_Challenge/blob/main/mod4images/risk_1.PNG)
+
+![2](https://github.com/reiccv/Module_4_Challenge/blob/main/mod4images/risk_2.PNG)
+
+![3](https://github.com/reiccv/Module_4_Challenge/blob/main/mod4images/risk_3.PNG)
+
+![4](https://github.com/reiccv/Module_4_Challenge/blob/main/mod4images/risk_4.PNG)
+
+# Analyze Risk Return
+
+![1](https://github.com/reiccv/Module_4_Challenge/blob/main/mod4images/risk_return_1.PNG)
+
+![2](https://github.com/reiccv/Module_4_Challenge/blob/main/mod4images/risk_return_2.PNG)
+
+![3](https://github.com/reiccv/Module_4_Challenge/blob/main/mod4images/risk_return_3.PNG)
+
+# Diversify The Portfolio
+
+![1](https://github.com/reiccv/Module_4_Challenge/blob/main/mod4images/diversify_1.PNG)
+
+![2](https://github.com/reiccv/Module_4_Challenge/blob/main/mod4images/diversify_2.PNG)
+
+![3](https://github.com/reiccv/Module_4_Challenge/blob/main/mod4images/diversify_3.PNG)
+
+![4](https://github.com/reiccv/Module_4_Challenge/blob/main/mod4images/diversify_4.PNG)
+
+![5](https://github.com/reiccv/Module_4_Challenge/blob/main/mod4images/diversify_5.PNG)
+
+# Repeat the steps for Berskshire to determine which would be a better investment.
